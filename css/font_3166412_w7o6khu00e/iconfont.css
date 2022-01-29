@@ -13,23 +13,23 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-shipin1:before {
+.icon-shipin1:after {
   content: "\e607";
 }
 
-.icon-guanyuwomen:before {
+.icon-guanyuwomen:after {
   content: "\e605";
 }
 
-.icon-wodehuodong:before {
+.icon-wodehuodong:after {
   content: "\e696";
 }
 
-.icon-wenzhang-copy:before {
+.icon-wenzhang-copy:after {
   content: "\e643";
 }
 
-.icon-huodong:before {
+.icon-huodong:after {
   content: "\e679";
 }
 
