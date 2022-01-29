@@ -1,6 +1,6 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3166412 */
-  src: url("iconfont.woff2?t=1643444435573") format('woff2'), url("iconfont.woff?t=1643444435573") format('woff'), url("iconfont.ttf?t=1643444435573") format('truetype');
+  src: url("//at.alicdn.com/t/font_3166412_1326wbf1k2jd.woff2?t=1643447939356") format('woff2'), url("//at.alicdn.com/t/font_3166412_1326wbf1k2jd.woff?t=1643447939356") format('woff'), url("//at.alicdn.com/t/font_3166412_1326wbf1k2jd.ttf?t=1643447939356") format('truetype');
 }
 .iconfont {
   font-family: "iconfont" !important;
@@ -8,6 +8,9 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+.icon-moban:before {
+  content: "\e61d";
 }
 .icon-wodehuodong:before {
   content: "\e696";
