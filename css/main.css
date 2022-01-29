@@ -1,10 +1,7 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3166412 */
-  src: url('iconfont.woff2?t=1643444435573') format('woff2'),
-       url('iconfont.woff?t=1643444435573') format('woff'),
-       url('iconfont.ttf?t=1643444435573') format('truetype');
+  src: url("iconfont.woff2?t=1643444435573") format('woff2'), url("iconfont.woff?t=1643444435573") format('woff'), url("iconfont.ttf?t=1643444435573") format('truetype');
 }
-
 .iconfont {
   font-family: "iconfont" !important;
   font-size: 16px;
@@ -12,24 +9,18 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 .icon-wodehuodong:before {
   content: "\e696";
 }
-
 .icon-wenzhang-copy:before {
   content: "\e643";
 }
-
 .icon-huodong:before {
   content: "\e679";
 }
-
 .icon-shipin:before {
   content: "\e625";
 }
-
-
 :root {
   --body-bg-color: #f5f7f9;
   --content-bg-color: #fff;
@@ -1200,7 +1191,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e0f486;
+  background: #11d77f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
